@@ -1,0 +1,4 @@
+char_param: value
+expr_param: !expr seq(1:5)
+numeric_param: 500
+boolean_param: true

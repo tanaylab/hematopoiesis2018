@@ -1,0 +1,40 @@
+navbar:
+  title: "tgconfig"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Reference"
+      href: reference/index.html
+      icon: fa-th-list
+  right:
+    - icon: fa-bitbucket-square
+      href: https://bitbucket.org/tanaylab/tgconfig
+
+
+
+reference:
+- title: Register parameters  
+  contents:
+  - register_param
+  - register_params  
+- title: Set parameters  
+  contents:
+  - set_param
+  - override_params
+- title: Get parameters  
+  contents:
+  - get_param
+  - get_param_strict
+  - load_params_to_env
+  - has_param
+  - list_package_params
+  - get_package_params
+- title: Remove parameters
+  contents: 
+  - rm_param
+  - rm_package_params
+- title: Config files  
+  contents: 
+  - dump_example_config
+  - example_config_file

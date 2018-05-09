@@ -1,0 +1,3 @@
+load("saved_work/plus_cl_2.Rda")
+bs_cl = scc_bootstrap_clusts(sc_cl, k_cut=20, N_boot = 500, boot_ratio=0.7, n_procs=16)
+save(bs_cl, file = "saved_work/plus_cl_bs.Rda")

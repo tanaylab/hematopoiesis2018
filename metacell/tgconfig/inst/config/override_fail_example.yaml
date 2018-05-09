@@ -1,0 +1,5 @@
+char_param: 'user_char'
+expr_param: 'user_exp'
+numeric_param: 700
+boolean_param: false
+unknown_param: 'some value'

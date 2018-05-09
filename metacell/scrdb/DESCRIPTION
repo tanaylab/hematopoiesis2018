@@ -1,0 +1,52 @@
+Package: scrdb
+Type: Package
+Title: Basic manipulations and analysis for single cell RNA seq data
+Version: 0.1.0
+Authors@R: person("Ya'ara", "Arkin", email = "yaaraarkin@gmail.com", role = c("aut", "cre"))
+Description: Basic manipulations and analysis for single cell RNA seq data
+License: What license is it under?
+LazyData: TRUE
+Imports:
+  data.table,
+  dplyr,
+  graph,
+  methods,
+  Matrix,
+  matrixStats,
+  pdist,
+  pheatmap, 
+  plotrix,
+  RColorBrewer,
+  Rgraphviz,
+  KernSmooth,
+  zoo,
+  tgconfig,
+  ggplot2,
+  cowplot,
+  cluster,
+  tgstat,
+  tgutil,
+  doMC,
+  igraph
+RoxygenNote: 6.0.1
+Collate: 
+    'scmat.r'
+    'cluster.r'
+    'cluster_layout.r'
+    'datasets.R'
+    'gene_select.r'
+    'knn_clust.r'
+    'reduce.r'
+    'temp_kmeans.R'
+    'pipeline.r'
+    'util.r'
+    'sorter.r'
+    'gene_mods.r'
+    'scrdb-package.r'
+    'scdb.r'
+Suggests:
+    testthat
+Remotes:
+  bitbucket::tanaylab/tgconfig@default,
+  bitbucket::tanaylab/tgstat@default,
+  bitbucket::tanaylab/tgutil@default

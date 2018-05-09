@@ -1,0 +1,14 @@
+Package: tgconfig
+Title: Infrastructure for managing package parameters
+Version: 0.0.0.9000
+Authors@R: c(person("Aviezer", "Lifshitz", email = "aviezer.lifshitz@weizmann.ac.il",
+    role = c("aut", "cre")),
+    person("Amos", "Tanay", role=c("aut")))
+Description: The goal of tgconfig is to provide infrastructure for managing package parameters. Parameters are easy to get in relevant functions within a package, and rrror is thrown if a parameter is missing. Developers are able to register parameters and set their default value in a config file that is part of the package in YAML format, and users are able to override parameters using their own YAML. Users get an exception when trying to override a parameter that was not registered, and can load multiple parameters to the current environment.
+Depends: R (>= 3.2.4)
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: yaml
+RoxygenNote: 6.0.1
+Suggests: testthat
