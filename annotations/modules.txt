@@ -1,0 +1,931 @@
+gene	module	length	annotation
+1190002H23Rik	2	127	all
+1500032L24Rik	2	127	all
+1810033B17Rik	2	127	all
+4632428N05Rik	2	127	all
+6430548M08Rik	2	127	all
+AA467197;Mir147	2	127	all
+AK081788;Aldh3b1	2	127	all
+AK169831	2	127	all
+Acsl1	2	127	all
+Actb	2	127	all
+Actn1	2	127	all
+Adssl1	2	127	all
+Aldoa	2	127	all
+Alox5	2	127	all
+Anxa2	2	127	all
+Anxa5	2	127	all
+App	2	127	all
+Aprt;aprt	2	127	all
+Arhgdia	2	127	all
+Arhgdib	2	127	all
+Arid3a	2	127	all
+Arpc1b	2	127	all
+Arrb2	2	127	all
+B4galt6	2	127	all
+Calm1	2	127	all
+Camk1d	2	127	all
+Cap1	2	127	all
+Capns1	2	127	all
+Capzb	2	127	all
+Cd52	2	127	all
+Cd63	2	127	all
+Cd9	2	127	all
+Cdcrel-1;Gp1bb;Sept5	2	127	all
+Cdk2ap2	2	127	all
+Cfl1	2	127	all
+Chd7	2	127	all
+Clec5a;Mdl1	2	127	all
+Cnn2	2	127	all
+Coro1a	2	127	all
+Crispld2	2	127	all
+Csf3r	2	127	all
+Cyba;AK154184	2	127	all
+Dgat;Dgat1	2	127	all
+Dhrs7	2	127	all
+Dmkn	2	127	all
+Dstn	2	127	all
+Efhd2	2	127	all
+Emp3	2	127	all
+Fcer1g	2	127	all
+Fcgr3	2	127	all
+Fes	2	127	all
+Ffar2	2	127	all
+G6pdx	2	127	all
+Gnai2	2	127	all
+Gpc1	2	127	all
+Gpi1	2	127	all
+Gpr84	2	127	all
+Gpsm3	2	127	all
+Gsr	2	127	all
+Hck	2	127	all
+Hdc	2	127	all
+Igsf6	2	127	all
+Itgb2	2	127	all
+Kiaa0028;Lars2	2	127	all
+Klf5	2	127	all
+Lbp	2	127	all
+Lcp1	2	127	all
+Lilrb3;Pira1;Gm14548;Pira11;Pira2;Pira4;Pira7;Lilra6;Pirb	2	127	all
+Lin28a	2	127	all
+Lmo4	2	127	all
+Lrrc58	2	127	all
+Lta4h	2	127	all
+Ltb4r1	2	127	all
+Ly75	2	127	all
+Man2b1	2	127	all
+Mapk13	2	127	all
+Mogat2	2	127	all
+Mxd1	2	127	all
+Myh9	2	127	all
+Myl12b	2	127	all
+Myo1f	2	127	all
+Myo5b;Myo5a	2	127	all
+Napsa	2	127	all
+Ncam1	2	127	all
+Ncf4	2	127	all
+Ndufv3	2	127	all
+Nfam1	2	127	all
+Nhsl2	2	127	all
+Nxn	2	127	all
+Olfml2b	2	127	all
+Orm1	2	127	all
+Padi4	2	127	all
+Pfn1	2	127	all
+Pgd	2	127	all
+Pkm2	2	127	all
+Plaur	2	127	all
+Ptpn6	2	127	all
+Pygl	2	127	all
+Rab27a	2	127	all
+Rab32	2	127	all
+Rac2	2	127	all
+Rhog	2	127	all
+Rhou	2	127	all
+Rnpep	2	127	all
+Rogdi	2	127	all
+Rps6ka1	2	127	all
+Sepx1	2	127	all
+Sfpi1	2	127	all
+Sh3bgrl3	2	127	all
+Slfn2	2	127	all
+Sorl1	2	127	all
+Sort1	2	127	all
+St3gal5	2	127	all
+Sun2	2	127	all
+Syne1	2	127	all
+Tagln2	2	127	all
+Taldo1	2	127	all
+Tkt	2	127	all
+Tmbim6	2	127	all
+Tnnt1	2	127	all
+Trem3	2	127	all
+Trp53inp2	2	127	all
+Tyrobp	2	127	all
+Vasp	2	127	all
+Xdh	2	127	all
+Zfp414;Pram1	2	127	all
+Zyx	2	127	all
+1700048O20Rik	3	123	B
+2010300C02Rik	3	123	B
+2210013O21Rik	3	123	B
+2900026A02Rik	3	123	B
+AK007907;AK079377	3	123	B
+AK079675	3	123	B
+AK165607	3	123	B
+Ablim1;AK041356;AK165766	3	123	B
+Acss1	3	123	B
+Aff3	3	123	B
+Agpat9	3	123	B
+Amigo1	3	123	B
+Arpp21	3	123	B
+Art4	3	123	B
+Atg16l2	3	123	B
+Atp1b1	3	123	B
+B9d2	3	123	B
+BC030307;Gnn;Nt5dc3	3	123	B
+Bach2	3	123	B
+Bcr	3	123	B
+Bin1	3	123	B
+Bst1	3	123	B
+Btbd10	3	123	B
+Camk2b	3	123	B
+Camk2d;Camk2g;mKIAA4163	3	123	B
+Cat	3	123	B
+Ccm2;AK040177	3	123	B
+Cd37	3	123	B
+Cd72	3	123	B
+Cdc25b	3	123	B
+Cep250	3	123	B
+Chd2	3	123	B
+Cox7a2l	3	123	B
+Crhbp	3	123	B
+Csgalnact1	3	123	B
+Csrnp1	3	123	B
+Cxcr5	3	123	B
+Cxxc5	3	123	B
+Cyp4f18	3	123	B
+Cyth1;CLM1-A	3	123	B
+Ddt	3	123	B
+Dlg2	3	123	B
+Edaradd	3	123	B
+Eps8l2	3	123	B
+FKBP12-T1;Fkbp1a	3	123	B
+Fbxl12	3	123	B
+Fcrl6	3	123	B
+Foxj1;Rnf157	3	123	B
+Foxp1	3	123	B
+Frmd6	3	123	B
+Gchfr	3	123	B
+Gimap1	3	123	B
+Gm4759	3	123	B
+Gmfg	3	123	B
+Grb7	3	123	B
+Gstt2	3	123	B
+H2-Ob	3	123	B
+Heyl	3	123	B
+ISG12a;Ifi27l1	3	123	B
+Il16;mKIAA4048	3	123	B
+Inpp5d;Ship	3	123	B
+Irf4	3	123	B
+Klhl6	3	123	B
+Lgals9	3	123	B
+Lhpp	3	123	B
+Lig4	3	123	B
+Litaf	3	123	B
+Lxn	3	123	B
+Malat1	3	123	B
+Mfsd4	3	123	B
+Mobkl3;AK165532	3	123	B
+Msh5	3	123	B
+Mtss1;mKIAA0429	3	123	B
+Myo7a	3	123	B
+N4bp3	3	123	B
+Nedd9	3	123	B
+Nfkbie	3	123	B
+Ninj1	3	123	B
+Nudt2	3	123	B
+Pcp4l1	3	123	B
+Pde4b	3	123	B
+Phldb3	3	123	B
+Pik3cd	3	123	B
+Plcg1;AK169777	3	123	B
+Plxdc1	3	123	B
+Pmf1	3	123	B
+Pnrc1	3	123	B
+Pold4	3	123	B
+Prkd2	3	123	B
+Ptgr1	3	123	B
+Rab11a	3	123	B
+Rabgap1l;mKIAA0471	3	123	B
+Rasgrp2	3	123	B
+Rnf169	3	123	B
+Rptor;raptor	3	123	B
+Selm	3	123	B
+Sepp1	3	123	B
+Sgk1	3	123	B
+Sh3bp5	3	123	B
+Sigirr	3	123	B
+Siglecg	3	123	B
+Sit1	3	123	B
+Slamf6	3	123	B
+Slamf7	3	123	B
+Slc30a5	3	123	B
+Smtnl2	3	123	B
+Socs2	3	123	B
+Srp14	3	123	B
+Steap4	3	123	B
+Tbc1d10c	3	123	B
+Tbxa2r	3	123	B
+Tcf3	3	123	B
+Tctn2	3	123	B
+Tmem108	3	123	B
+Tnfrsf13c	3	123	B
+Ttll11;DQ699740	3	123	B
+Tubb2b	3	123	B
+Txnip	3	123	B
+Ubac2	3	123	B
+Uchl1	3	123	B
+Wdfy4	3	123	B
+Ypel3	3	123	B
+Zcchc11;mKIAA0191	3	123	B
+2700094K13Rik	6	97	CC
+2810417H13Rik	6	97	CC
+AK012387	6	97	CC
+AK088743;D17H6S56E-5	6	97	CC
+Anapc5	6	97	CC
+Anp32e	6	97	CC
+Apobec3	6	97	CC
+Arl6ip1	6	97	CC
+Asf1b	6	97	CC
+Asp;Aspm	6	97	CC
+Atad2	6	97	CC
+Aurka	6	97	CC
+Bdp1;mKIAA1241	6	97	CC
+Birc5	6	97	CC
+Bub1b	6	97	CC
+Bub3	6	97	CC
+Calm2	6	97	CC
+Ccnb2	6	97	CC
+Cdc20	6	97	CC
+Cdca3	6	97	CC
+Cdca8	6	97	CC
+Cdk1	6	97	CC
+Cdkn3	6	97	CC
+Cenp-a;Cenpa	6	97	CC
+Cenpe	6	97	CC
+Cenpf	6	97	CC
+Cenpm	6	97	CC
+Cep55	6	97	CC
+Cit	6	97	CC
+Ckap2	6	97	CC
+Ckap2l	6	97	CC
+Ckap5;mKIAA0097	6	97	CC
+Clspn	6	97	CC
+Ctcf	6	97	CC
+D2Ertd750e;Gm14090	6	97	CC
+Dctn5;Plk1	6	97	CC
+Dek	6	97	CC
+Dlgap5;mKIAA0008	6	97	CC
+Dnajc9	6	97	CC
+Dnmt1	6	97	CC
+Dut;Dutp	6	97	CC
+Dyrk1a	6	97	CC
+Ect2	6	97	CC
+Esco2	6	97	CC
+Ezh2	6	97	CC
+Fam64a	6	97	CC
+Fyr;Fzr1	6	97	CC
+H2afv;H2afz	6	97	CC
+H2afx	6	97	CC
+H3f3a;H3f3b	6	97	CC
+Hist1h4c	6	97	CC
+Hist2h2bb	6	97	CC
+Hmgb2	6	97	CC
+Hmmr;IHABP	6	97	CC
+Hn1	6	97	CC
+Incenp	6	97	CC
+Iqgap3	6	97	CC
+Kif11	6	97	CC
+Kif22	6	97	CC
+Lbr	6	97	CC
+Lig1	6	97	CC
+Lmnb1;AK079263	6	97	CC
+Mcm5	6	97	CC
+Mcm6	6	97	CC
+Mki67	6	97	CC
+Ncapg2;Mtb	6	97	CC
+Ndc80	6	97	CC
+Nde1	6	97	CC
+Nucks1	6	97	CC
+Nusap1	6	97	CC
+Pcna	6	97	CC
+Prc1	6	97	CC
+Ptma	6	97	CC
+Racgap1	6	97	CC
+Rad21	6	97	CC
+Rrm2	6	97	CC
+SMC4;Smc4	6	97	CC
+Sephs1	6	97	CC
+Smc2	6	97	CC
+Snrnp27	6	97	CC
+Spc24	6	97	CC
+Spc25	6	97	CC
+Stmn1	6	97	CC
+Strbp	6	97	CC
+Tacc3	6	97	CC
+Tcf19	6	97	CC
+Tk1	6	97	CC
+Tmpo	6	97	CC
+Top2a	6	97	CC
+Tpx2	6	97	CC
+Tuba1b	6	97	CC
+Tuba1c	6	97	CC
+Tubb5	6	97	CC
+Ubb;AK183279;Uba52;Ubc	6	97	CC
+Ube2c	6	97	CC
+Whsc1;mKIAA1090	6	97	CC
+hnRNP A2/B1;Hnrnpa2b1	6	97	CC
+5031414D18Rik	8	72	
+Anxa6	8	72	
+Atp2a1	8	72	
+Atrip;Trex1;6620401K05Rik	8	72	
+Bst2	8	72	
+Card11	8	72	
+Ccr9	8	72	
+Coro2a	8	72	
+Cox6a2	8	72	
+Crip1	8	72	
+Cst3	8	72	
+Ctsh	8	72	
+Ctsl	8	72	
+Cyth4;mFLJ00017	8	72	
+Ddr1	8	72	
+Ent3;Slc29a3	8	72	
+Fgd2	8	72	
+Flt3	8	72	
+Fxyd5	8	72	
+Gm2a	8	72	
+Gng10	8	72	
+Gng2	8	72	
+Grn	8	72	
+H2-DMa	8	72	
+H2afy	8	72	
+Ifi30	8	72	
+Ifnar2	8	72	
+Il6ra	8	72	
+Inpp5a	8	72	
+Irf8	8	72	
+Itgb7	8	72	
+Klk1	8	72	
+Lag3	8	72	
+Laptm5;AK171116	8	72	
+Lgals1	8	72	
+Ly6d	8	72	
+Ly6e	8	72	
+Ly86	8	72	
+Mpeg1	8	72	
+Nfkb1	8	72	
+Nsg2	8	72	
+Pdzd4	8	72	
+Pld4	8	72	
+Plekhm3	8	72	
+Pltp	8	72	
+Ppfia4;mKIAA0897	8	72	
+Prr5	8	72	
+Psap	8	72	
+Psmb8	8	72	
+Psmb9	8	72	
+Ptms	8	72	
+Ptpn18	8	72	
+Ramp1	8	72	
+Rnase6	8	72	
+Runx2;Runx3	8	72	
+S100a10	8	72	
+Sc4mol	8	72	
+Scpep1	8	72	
+Sdc1	8	72	
+Sell	8	72	
+Selplg	8	72	
+Sema4d	8	72	
+Siglech	8	72	
+Slc41a2	8	72	
+St8sia4;ST8SiaIV	8	72	
+Tcf4	8	72	
+Tifab	8	72	
+Tmem229b	8	72	
+Tmsb10	8	72	
+Tpm4	8	72	
+Upb1	8	72	
+Vim	8	72	
+2210023G05Rik;Ces2g	5	63	
+5730469M10Rik	5	63	
+A430005L14Rik	5	63	
+Abcb4	5	63	
+Abcb6	5	63	
+Alas2	5	63	
+Aldh1a1	5	63	
+Aplp2	5	63	
+Apol11b	5	63	
+Asap1;Shag1	5	63	
+Asns	5	63	
+Bpgm	5	63	
+Cd82	5	63	
+Chac2	5	63	
+Cited4	5	63	
+Cox17	5	63	
+Cox6b2	5	63	
+Dap3	5	63	
+Dnajb2	5	63	
+Epb4.1	5	63	
+Fam132a	5	63	
+Fn3k	5	63	
+Gclm	5	63	
+Grina	5	63	
+Gstm5	5	63	
+Gypc	5	63	
+Hba-x	5	63	
+Josd2	5	63	
+Mar-08	5	63	
+Metap2	5	63	
+Mir144	5	63	
+Mkrn1	5	63	
+Mns1	5	63	
+Mrpl52	5	63	
+Mt1	5	63	
+Mt2	5	63	
+Mthfd1	5	63	
+Myo18a	5	63	
+Ndufv1	5	63	
+Nfia	5	63	
+Npm2;Xpo7	5	63	
+Nudt9	5	63	
+Pdzk1ip1	5	63	
+Pla2g12a	5	63	
+Ppp1r15a	5	63	
+Prss50	5	63	
+Psmf1	5	63	
+Rab4a	5	63	
+Rfc3	5	63	
+Rgs10	5	63	
+Rhag	5	63	
+Slc14a1	5	63	
+Slc38a5	5	63	
+Sphk1	5	63	
+Stom	5	63	
+Tmcc2	5	63	
+Tmod1	5	63	
+Tpm1	5	63	
+Ttll12	5	63	
+Xpnpep1	5	63	
+Zcchc6	5	63	
+Zfp39	5	63	
+Zfpm1	5	63	
+2010001M09Rik	4	61	
+AK156292;V00821;AI324046;Ighg1;AK135975;Igh;Ighg;J00476;Igh-A (1g2);Gm16844;AK036494;M34473;abParts;M13680;M12570;V00757;M36767;X73024	4	61	
+Akap12	4	61	
+Arntl;bmal1b	4	61	
+Arpc5l	4	61	
+Atp1b3	4	61	
+Bcl7a	4	61	
+Bfsp2	4	61	
+Blnk	4	61	
+Cd19	4	61	
+Cd79a	4	61	
+Cd79b	4	61	
+Chchd10	4	61	
+Chst3	4	61	
+Cnp	4	61	
+Commd1;B3gnt2	4	61	
+Cplx2	4	61	
+Dck	4	61	
+Dnajc7;mDj11	4	61	
+Dntt	4	61	
+Ebf1;Ebf4;Ebf3;O/E-4S	4	61	
+Elk4	4	61	
+Elof1	4	61	
+Ets1	4	61	
+Fam129c;Pgls	4	61	
+Fam53b	4	61	
+Fcrla	4	61	
+Foxo1	4	61	
+Gfra2	4	61	
+Hes1	4	61	
+Id3	4	61	
+Ifi27l2a	4	61	
+Igll1	4	61	
+Impdh1	4	61	
+Lef1	4	61	
+Myl4	4	61	
+Pafah1b3	4	61	
+Pde2a	4	61	
+Pkig	4	61	
+Pou2af1	4	61	
+Ppp1r16b	4	61	
+Prep	4	61	
+Ptp4a3	4	61	
+Ptprcap	4	61	
+Rag1;B230118H07Rik	4	61	
+Rcsd1;AK020768	4	61	
+Sbk1	4	61	
+Sdc4	4	61	
+Serinc3	4	61	
+Smarca4	4	61	
+Snx2	4	61	
+Spib	4	61	
+Stambpl1	4	61	
+Tifa	4	61	
+Trp53i11	4	61	
+Tspan13	4	61	
+Ucp2	4	61	
+Vpreb1	4	61	
+Vpreb2	4	61	
+Vpreb3	4	61	
+Xrcc6	4	61	
+Atp5j	20	39	Ribo
+Atp5j2;AK164124	20	39	Ribo
+Atp5k	20	39	Ribo
+BC033430;Hnrnpu;AK049600	20	39	Ribo
+BC035044	20	39	Ribo
+Cct2	20	39	Ribo
+Cct3	20	39	Ribo
+Cct5	20	39	Ribo
+Cct6a	20	39	Ribo
+Cd93	20	39	Ribo
+Cox6b1	20	39	Ribo
+Cox6c	20	39	Ribo
+Cox7a2	20	39	Ribo
+Cox7b	20	39	Ribo
+Csde1;mKIAA0885	20	39	Ribo
+Dbi	20	39	Ribo
+Dhfr	20	39	Ribo
+Dkc1	20	39	Ribo
+Elf1	20	39	Ribo
+Hprt	20	39	Ribo
+Hsp90aa1	20	39	Ribo
+MRPL33;Mrpl33	20	39	Ribo
+Matr3	20	39	Ribo
+Mdh1	20	39	Ribo
+Mrpl35	20	39	Ribo
+Mrpl42	20	39	Ribo
+Mrps18c	20	39	Ribo
+Ndufa3	20	39	Ribo
+Ndufa5	20	39	Ribo
+Ndufs4	20	39	Ribo
+Pabpc1;Pabpc2	20	39	Ribo
+Pnp	20	39	Ribo
+Snrpe	20	39	Ribo
+Ssb	20	39	Ribo
+Sub1	20	39	Ribo
+Trappc1	20	39	Ribo
+Ubl5	20	39	Ribo
+Uqcr10	20	39	Ribo
+Uqcrh	20	39	Ribo
+Alad	15	38	
+Ank1	15	38	
+Aqp1	15	38	
+Atpif1	15	38	
+Beta-s	15	38	
+Blvrb	15	38	
+Car1	15	38	
+Car2	15	38	
+Cd24a	15	38	
+Cldn13	15	38	
+Cpox	15	38	
+Ctse	15	38	
+Epb4.9	15	38	
+Ermap	15	38	
+Fech	15	38	
+Fth1	15	38	
+Gfi1b	15	38	
+Glrx5	15	38	
+Gypa	15	38	
+Hagh	15	38	
+Hba-a2	15	38	
+Hbb-b1	15	38	
+Hemgn	15	38	
+Hmbs	15	38	
+Isg20	15	38	
+Klf1	15	38	
+Mgst3	15	38	
+Prdx2	15	38	
+Rhd	15	38	
+Sec14l2	15	38	
+Slc4a1	15	38	
+Spnb1	15	38	
+Stard10	15	38	
+Tmem14c	15	38	
+Tspan33	15	38	
+Txnrd2;TXNRD2	15	38	
+Ubac1;Ubadc1	15	38	
+Urod	15	38	
+Ahnak	14	35	
+Arl4d	14	35	
+Ccl5	14	35	
+Cd160	14	35	
+Cd2	14	35	
+Cd7	14	35	
+Ctsw	14	35	
+Cxcr3	14	35	
+Epsti1	14	35	
+Gimap3	14	35	
+Gzma	14	35	
+Hcst	14	35	
+Id2	14	35	
+Ikzf3	14	35	
+Il2rb	14	35	
+Il2rg	14	35	
+Itgax	14	35	
+Kbtbd11	14	35	
+Klrb1c;Klrb1b	14	35	
+Klrk1	14	35	
+Lck	14	35	
+Nkg7	14	35	
+Pdgfb	14	35	
+Prf1	14	35	
+Ptprc	14	35	
+Samd3	14	35	
+Serpina3f;Serpina3g	14	35	
+Sh2d2a	14	35	
+Shisa5	14	35	
+Skap1	14	35	
+Tcb;TCRB13-1-1;TCRB5-2;TCR BV10S1A2Dbeta1Jbeta2.1;5830405F06Rik;TCR-beta chain;AF479018;TCRB;Vb10a;TCRB13-1-3;Tcrb;TCRBVbeta5.1/Jbeta1.5;H4	14	35	
+Tnfrsf9	14	35	
+Traf1	14	35	
+Xcl1	14	35	
+Zap70	14	35	
+Eef1b2	23	31	Ribo
+Eef2	23	31	Ribo
+Gm10653;Rps2	23	31	Ribo
+Gm15427;Rpl18a	23	31	Ribo
+Gnb2l1;Snord96a	23	31	Ribo
+Rpl10	23	31	Ribo
+Rpl13	23	31	Ribo
+Rpl13a;Rpl13a-ps1;Snord34	23	31	Ribo
+Rpl14	23	31	Ribo
+Rpl29	23	31	Ribo
+Rpl35	23	31	Ribo
+Rpl41	23	31	Ribo
+Rpl8	23	31	Ribo
+Rplp0	23	31	Ribo
+Rplp1	23	31	Ribo
+Rplp2	23	31	Ribo
+Rps10	23	31	Ribo
+Rps14	23	31	Ribo
+Rps15	23	31	Ribo
+Rps18	23	31	Ribo
+Rps19	23	31	Ribo
+Rps20	23	31	Ribo
+Rps21	23	31	Ribo
+Rps26	23	31	Ribo
+Rps28	23	31	Ribo
+Rps3;Snord15b	23	31	Ribo
+Rps3a	23	31	Ribo
+Rps5	23	31	Ribo
+Rps8	23	31	Ribo
+Rps9	23	31	Ribo
+Rpsa	23	31	Ribo
+2810405K02Rik	7	30	
+AK170106;Lpl	7	30	
+Axl	7	30	
+C1qa	7	30	
+C1qb	7	30	
+C1qc	7	30	
+Cd163	7	30	
+Cd5l	7	30	
+Cd68	7	30	
+Col14a1	7	30	
+Ctsd	7	30	
+Dnajb13	7	30	
+Fcgr1	7	30	
+Fcgrt	7	30	
+Fcna	7	30	
+Hmox1	7	30	
+Igf1	7	30	
+Itgb5	7	30	
+Itm2c	7	30	
+Lrp1	7	30	
+Mertk	7	30	
+Mrc1	7	30	
+Pld3	7	30	
+Rab34	7	30	
+Sdc3	7	30	
+Sirpa	7	30	
+Slco2b1	7	30	
+Timp2	7	30	
+Trf	7	30	
+Vcam1	7	30	
+1100001G20Rik	1	29	
+AK153212	1	29	
+Adpgk	1	29	
+Anxa1;AK170612	1	29	
+C3	1	29	
+Camp	1	29	
+Cd177	1	29	
+Cebpe	1	29	
+Chi3l1	1	29	
+Chi3l3	1	29	
+Ckap4	1	29	
+Cybb	1	29	
+Fam101b	1	29	
+Fcnb	1	29	
+Hp	1	29	
+Ifitm6	1	29	
+Itgam	1	29	
+Itgb2l	1	29	
+Lcn2	1	29	
+Lrg1	1	29	
+Ltf	1	29	
+Lyz1;Lyz2	1	29	
+Ngp	1	29	
+Pglyrp1	1	29	
+Prdx5	1	29	
+S100a11	1	29	
+S100a8	1	29	
+S100a9	1	29	
+Tmsb4x	1	29	
+5430435G22Rik;Rab42;Rab7b	9	27	
+Aif1	9	27	
+Ccl6	9	27	
+Cd74	9	27	
+Ckb	9	27	
+Ctss	9	27	
+Cxcl9	9	27	
+Dpp4	9	27	
+Gm4902	9	27	
+H2-Aa	9	27	
+H2-Ab1	9	27	
+H2-DMb1;H2-DMb2	9	27	
+H2-Eb1	9	27	
+Irf5	9	27	
+Lgals3	9	27	
+Lsp1	9	27	
+Mnda;Ifi204	9	27	
+NAAA;Naaa	9	27	
+Plbd1	9	27	
+Ppt1	9	27	
+S100a4	9	27	
+S100a6	9	27	
+Sep-03	9	27	
+Slamf8	9	27	
+Slc46a3	9	27	
+Trim7;AK029860	9	27	
+Xcr1	9	27	
+AK081796;Gns	10	23	
+Adrb1	10	23	
+Camk2n1	10	23	
+Crybb1	10	23	
+Cx3cr1	10	23	
+FELE-1;Stab1	10	23	
+Fcrls	10	23	
+Gbp8	10	23	
+Gpr34	10	23	
+Ltc4s	10	23	
+Marcks;AK017779	10	23	
+Olfml3	10	23	
+P2ry12	10	23	
+P2ry13	10	23	
+Phyhd1	10	23	
+Pmepa1	10	23	
+Rin2	10	23	
+Scamp5	10	23	
+Slc1a3	10	23	
+Sparc	10	23	
+Tmem119	10	23	
+Usp35	10	23	
+Zfhx3	10	23	
+Alb	17	23	
+Aldob	17	23	
+Apoa1	17	23	
+Apoa2	17	23	
+Apoc1	17	23	
+Apoc4;Apoc2	17	23	
+Arg1	17	23	
+Ehhadh	17	23	
+Fabp1	17	23	
+Fgb	17	23	
+Fxyd1	17	23	
+Gnmt	17	23	
+Grb14	17	23	
+Hamp	17	23	
+Mup3	17	23	
+Rbp4	17	23	
+Serpina1a;Serpina1d	17	23	
+Serpina1b	17	23	
+Serpina1c	17	23	
+Serpina1e	17	23	
+Serpina3k;Serpina3m	17	23	
+Serpinc1	17	23	
+Ttr	17	23	
+Hist1h1a	25	20	CC
+Hist1h1b	25	20	CC
+Hist1h1c	25	20	CC
+Hist1h1d	25	20	CC
+Hist1h2ab	25	20	CC
+Hist1h2ac	25	20	CC
+Hist1h2ae	25	20	CC
+Hist1h2af	25	20	CC
+Hist1h2ai	25	20	CC
+Hist1h2ak	25	20	CC
+Hist1h2an	25	20	CC
+Hist1h2ap	25	20	CC
+Hist1h2be;Hist1h1e	25	20	CC
+Hist1h3b	25	20	CC
+Hist1h3c	25	20	CC
+Hist1h3d	25	20	CC
+Hist1h3e	25	20	CC
+Hist1h4d	25	20	CC
+Hist2h2ac	25	20	CC
+Hist2h4	25	20	CC
+EF437368	22	18	Ribo
+Eef1a1	22	18	Ribo
+Gas5	22	18	Ribo
+Gm6402	22	18	Ribo
+Mir682	22	18	Ribo
+Rpl22	22	18	Ribo
+Rpl23	22	18	Ribo
+Rpl26	22	18	Ribo
+Rpl30	22	18	Ribo
+Rpl32	22	18	Ribo
+Rpl34;Rpl34-ps1	22	18	Ribo
+Rpl35a	22	18	Ribo
+Rpl37	22	18	Ribo
+Rpl37a	22	18	Ribo
+Rpl38	22	18	Ribo
+Rpl4	22	18	Ribo
+Rpl7	22	18	Ribo
+Rps11	22	18	Ribo
+Abcc3	12	16	
+Adcy3	12	16	
+C2	12	16	
+Cd209f	12	16	
+Dbt	12	16	
+Gpd1	12	16	
+Gpr137b	12	16	
+Kdm1b	12	16	
+Mafb	12	16	
+Mrap	12	16	
+Mras	12	16	
+Ms4a7	12	16	
+Myo10;myo 10	12	16	
+Rage;Stk30;MOK	12	16	
+Siglec1	12	16	
+Slc45a3	12	16	
+Adh1	13	14	
+Adipoq	13	14	
+Bgn	13	14	
+Col4a2	13	14	
+Cxcl12	13	14	
+Epas1	13	14	
+Esm1	13	14	
+Fbn1	13	14	
+Fstl1	13	14	
+Gas6	13	14	
+Hic1	13	14	
+Igfbp5	13	14	
+Nrp2	13	14	
+Tgm1	13	14	
+Alas1	16	9	
+Calr	16	9	
+Ctsg	16	9	
+Elane	16	9	
+Gstm1	16	9	
+Mpo	16	9	
+P4hb	16	9	
+Prtn3	16	9	
+Srgn	16	9	
+Aplnr	18	9	
+Col4a1	18	9	
+F11r	18	9	
+Ptprb	18	9	
+Sparcl1	18	9	
+Stap2	18	9	
+Ston2	18	9	
+Tnfaip8l1	18	9	
+Tspan7	18	9	
+Arhgap28	19	9	
+Fhl1	19	9	
+Itga2b;GPalpha IIb	19	9	
+Myl9	19	9	
+Nrgn	19	9	
+Pf4	19	9	
+Rap1b	19	9	
+Sdpr	19	9	
+Treml1	19	9	
+AK145379;H19;AK145379;H19	11	7	
+Chpf2	11	7	
+Dlk1	11	7	
+Igf2	11	7	
+Mrm1	11	7	
+Pth1r	11	7	
+Zc4h2	11	7	
+B2m;BC002288	21	7	Ribo
+Npm1	21	7	Ribo
+Plac8	21	7	Ribo
+Rps15a	21	7	Ribo
+Rps24	21	7	Ribo
+Rps25	21	7	Ribo
+Rps4x	21	7	Ribo
+Epx	24	3	
+Prg2	24	3	
+Prg3;Mbp2	24	3	

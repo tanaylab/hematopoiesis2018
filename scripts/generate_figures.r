@@ -1,0 +1,21 @@
+source("scripts/preprocessing.r")
+
+message("Generating main figures")
+#source("scripts/figure1.r")
+#source("scripts/figure2.r")
+#source("scripts/figure3.r")
+#source("scripts/figure4.r")
+#source("scripts/figure5.r")
+#source("scripts/figure6.r")
+#source("scripts/figure7.r")
+#source("scripts/figure8.r")
+
+message("Generating supplementary figures")
+#source("scripts/figureS1.r")
+#source("scripts/figureS2.r")
+#source("scripts/figureS3.r")
+#source("scripts/figureS4.r")
+#source("scripts/figureS6.r")
+#source("scripts/figureS7.r")
+source("scripts/figureS8.r")
+
